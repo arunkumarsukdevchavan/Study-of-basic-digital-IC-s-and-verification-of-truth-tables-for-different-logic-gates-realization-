@@ -83,7 +83,7 @@ endmodule
 ## Output:
 
 ### Logic symbol & Truthtable:
-![output](https://user-images.githubusercontent.com/93427522/189794412-9f6e0db3-b407-4f48-a4a7-ba4fc6c1fa0c.jpg)
+![output](https://user-images.githubusercontent.com/120554177/231425088-f056ec50-3fc6-4005-8e2b-bb588803f26a.jpg)
 
 ### RTL realization:
 ![output](https://user-images.githubusercontent.com/93427522/189667001-05f56615-6b9a-47a0-994a-a9577b34be01.png)
