@@ -87,6 +87,8 @@ endmodule
 
 ### RTL realization:
 ![output](https://user-images.githubusercontent.com/93427522/189667001-05f56615-6b9a-47a0-994a-a9577b34be01.png)
+### Timing Diagram:
+![image](https://github.com/arunkumarsukdevchavan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118343978/e2c6eb89-7aaf-42dd-8d01-ffe92ce02bc5)
 
 
 
